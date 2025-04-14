@@ -1,5 +1,5 @@
 export module VideoBuffer;
-
+// Raphael Lord
 export import IVideoBuffer;
 
 import <cstdint>;
